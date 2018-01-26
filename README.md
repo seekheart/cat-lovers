@@ -1,6 +1,6 @@
-# cat-lovers
+# cat-lovers (Dummy App)
 
-> A Vue.js project
+> A Vue.js project for learning
 
 ## Build Setup
 
